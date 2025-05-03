@@ -12,7 +12,7 @@ Sou **Abraão Ribeiro**, desenvolvedor especializado em **Laravel** e apaixonado
 ## 💻 Tecnologias e Ferramentas
 
 - **Backend:** Laravel, PHP
-- **Frontend:** Blade, Tailwind CSS, Bootstrap
+- **Frontend:** Blade, Tailwind CSS, Bootstrap, Javascript
 - **Banco de Dados:** PostgreSQL, MySQL, SQL Server
 - **Ferramentas:** Git, Docker, APIs RESTful, Vite, Livewire
 
