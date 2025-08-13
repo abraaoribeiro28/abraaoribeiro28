@@ -16,10 +16,10 @@ Focado em **Laravel Frameword** e tecnologias modernas para a web.
 
 ## 🚀 Sobre mim
 
-- 🎯 Atualmente trabalho em **Pbsoft Tecnologia LTDA**
+- 🎯 Atualmente trabalho em **Datafy Solutions**
 - 🛠️ Foco em **desenvolvimento full stack**
 - 📚 Estudando atualmente: **Livewire e Alphine JS**
-- 💡 Curioso sobre **inteligência artificial**
+- 💡 Curioso sobre **Automação de processos**
 
 ## 📬 Contato
 
