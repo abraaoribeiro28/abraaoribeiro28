@@ -18,8 +18,8 @@ Focado em **Laravel Frameword** e tecnologias modernas para a web.
 
 - 🎯 Atualmente trabalho em **Datafy Solutions**
 - 🛠️ Foco em **desenvolvimento full stack**
-- 📚 Estudando atualmente: **Livewire e Alphine JS**
-- 💡 Curioso sobre **Automação de processos**
+- 📚 Estudando atualmente: **Typescript**
+- 💡 Curioso sobre **Automação de processos e AI**
 
 ## 📬 Contato
 
